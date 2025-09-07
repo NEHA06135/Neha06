@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jammula Neha</h1>
-<h3 align="center">Passionate about full-stack development and AI/ML</h3>
+<h3 align="center">I’m passionate about building impactful tech solutions and currently exploring web development, AI/ML, and DSA in Java. Always curious to learn, collaborate, and work on projects that solve real-world problems. 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha06135&label=Profile%20views&color=0e75b6&style=flat" alt="neha06135" /> </p>
 
