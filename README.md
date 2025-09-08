@@ -1,3 +1,6 @@
+![alt text](https://miro.medium.com/v2/resize:fit:828/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif)
+![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Jammula+Neha!+%F0%9F%91%8B)
+
 <h1 align="center">Hi 👋, I'm Jammula Neha</h1>
 <h3 align="center">I’m passionate about building impactful tech solutions and currently exploring web development, AI/ML, and DSA in Java. Always curious to learn, collaborate, and work on projects that solve real-world problems. 🚀</h3>
 
