@@ -1,6 +1,5 @@
 
-![alt text](https://miro.medium.com/v2/resize:fit:828/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif)
-![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Tanmay+Singh!+%F0%9F%91%8B)<!-- Header GIF -->
+![alt text](https://miro.medium.com/v2/resize:fit:828/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif)<!-- Header GIF -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/fe/4b/2a/fe4b2a6a0c80cb0e3e5bdf4e72c1fc64.gif" alt="coding girl" width="500"/>
 </p>
