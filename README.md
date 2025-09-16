@@ -28,7 +28,7 @@
 <a href="https://twitter.com/@neh59411" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
 <a href="https://linkedin.com/in/jammula neha" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
 <a href="https://kaggle.com/jamullaneha" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/@nehajammula2006" target="blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" /></a>
+<a href= "https://www.hackerrank.com/profile/nehajammula2006" target="blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" /></a>
 </p>
 
 ---
